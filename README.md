@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Alejandro PArra</h1>
+<h1 align="center">Hi There 👋, I'm Alejandro Parra</h1>
 <h3 align="center">A passionate SRE/DevOps from 🇨🇴</h3>
 
 - 🔭 I’m currently working on **Platzi**
