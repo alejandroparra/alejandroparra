@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Platzi**
 
-- 🌱 I’m currently learning **AWS Certifications and Improving Soft skills**
+- 🌱 I’m currently learning **AWS Certifications, Kubernetes KCNA  and Improving Soft skills**
 
 - 👯 I’m looking to collaborate on **open source projects that impact people daily life**
 
