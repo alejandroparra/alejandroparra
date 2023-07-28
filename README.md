@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AWS, Azure, CI/CD, Kubernetes, Bash, C#, Javascript**
 
-- 📫 How to reach me **p@mrparra.com**
+- 📫 How to reach me **parra548@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alejandroparra90/](https://www.linkedin.com/in/alejandroparra90/)
 
