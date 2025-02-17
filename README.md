@@ -1,13 +1,13 @@
 <h1 align="center">Hi There 👋, I'm Alejandro Parra</h1>
-<h3 align="center">A passionate SRE/DevOps from 🇨🇴</h3>
+<h3 align="center">A passionate Software Engineer Manager 🇨🇴</h3>
 
-- 🔭 I’m currently working on **Platzi**
+- 🔭 I’m currently working on **Auvik**
 
 - 🌱 I’m currently learning **AWS Certifications, Kubernetes KCNA  and Improving Soft skills**
 
 - 👯 I’m looking to collaborate on **open source projects that impact people daily life**
 
-- 💬 Ask me about **AWS, Azure, CI/CD, Kubernetes, Bash, C#, Javascript**
+- 💬 Ask me about **AWS, Azure, CI/CD, Kubernetes, Bash, C#, Javascript, System Design**
 
 - 📫 How to reach me **parra548@gmail.com**
 
